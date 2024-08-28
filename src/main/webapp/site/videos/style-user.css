@@ -1,0 +1,14 @@
+@charset "UTF-8";
+.bg-custom-orange {
+    background: linear-gradient(to right, #FFA500, #FFD700);
+    /* Mã màu cam và màu vàng */
+}
+
+
+
+.navbar-nav .nav-link {
+    font-weight: bold;
+    color: #7b00ff;
+    /* Màu cam */
+}
+
